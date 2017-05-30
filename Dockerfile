@@ -1,7 +1,7 @@
 FROM gliderlabs/alpine:3.4
 MAINTAINER Jon Ruddell <jonathan.ruddell@gmail.com>
 
-ENV FFMPEG_VERSION=3.3.1
+ENV FFMPEG_VERSION=3.2.2
 
 WORKDIR /tmp/ffmpeg
 
